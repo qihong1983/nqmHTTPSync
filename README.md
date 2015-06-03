@@ -1,0 +1,2 @@
+# nqmHTTPSync
+Syncs via HTTP
